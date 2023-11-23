@@ -1,0 +1,31 @@
+﻿1. What are Primitive data types in Java?
+Answer: Byte,char,short,int,long,float,long,boolean,String,char are Primitive data types. 
+2. What are the Identifiers in Java?
+Answer: Identifiers is name in Java Class. Such as: interface name,method name,variable name,class name,package name,constant name.
+3. What is final class in JAVA?
+Answer: Final class is a class which do not alKlow itself to be inherited by another class.If we use final in a class then the value of the variable is known by the compiler.
+4. What are the two ways to make a class final?
+Answer: The two ways to make a class final are:-
+I. Declare a class final by using final keyword.
+Ii. Declare all of its constructor private
+5. Can we create a instance of  final class in another class?
+Answer: Yes,but can not inherited
+6. What are the Volatile keyword used for?
+Answer: Volatile keyword is used to modify the value of variable by different threads.
+
+
+7. What is the use of transient keyword?
+Answer: Transient Keyword is used to avoid serialization.
+
+
+      8.What are the types of casting?
+           Answer:Casting is of two types:-
+           I. Primitive casting:- Data is casted from one primitive type. 
+           Ii. Derived casting:- Data is casted from one derived type from another derived type.
+      9.What is boxing and Unboxing?
+          Answer:- Boxing: it is process of converting a primitive datatype into an object wrapper datatype. 
+                         Unboxing: It is the process of converting a value from an object wrapper type back to the native primitive value.
+    10.What is the difference between keyword,identifier and literal in java?
+         Answer: Keyword : Keywords are the pre defined words of java . they have pre defined meaning . they are reserve words. 
+                       Identifier :  Identifiers is name in Java Class. Such as: interface name,method name,variable name,class name,package name,constant name.
+                       Literal : literal is the value which is given to identifier
